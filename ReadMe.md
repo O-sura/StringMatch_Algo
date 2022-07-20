@@ -5,8 +5,8 @@ Module Catalogue Search
 The application facilitates the users to search through a module catalogue which contains thousands of modules with their respective module codes. Hence it makes a difficult task to find the relevent one at once. As a solution, Module Catalogue Search program will allow users to search the required module by entering a possible keyword containing in the catalogue and the program will output the matching results and results count accordingly. 
 
 # Requirements
-    - (g++)GNU C++ Compiler installed
-    - Text Editor/IDE (Only if need to modify the original code)
+    * (g++)GNU C++ Compiler installed
+    * Text Editor/IDE (Only if need to modify the original code)
 
 # How to Run
 
